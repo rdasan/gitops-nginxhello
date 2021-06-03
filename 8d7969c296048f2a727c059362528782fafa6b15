@@ -1,0 +1,1 @@
+{"jobID":"5009433f-2564-ee49-e85c-ed23a124fe67","spec":{"type":"policy","cause":{"Message":"","User":"rdasan \u003crejidasan82@gmail.com\u003e"},"spec":{"default:deployment/nginxhello":{"add":{"automated":"true"},"remove":{}}}},"result":null}
